@@ -1,0 +1,1102 @@
+<?xml version="1.0" encoding="windows-1251" ?><project currency="" version="1" costOperation="0" costMaterial="0" cost="0" date="" orderDate="" productFilter="false">
+<viyar version="23">
+<order delivery="" uuid="" />
+<creator id="Bazis2Viyar" version="5.3" bazisVersion="85" />
+<constructor id="dsp" site="" />
+<materials>
+<material id="1" type="sheet" article="29702" name="Kronospan 0110 SM ?????/????? ????????? 2800?2070?18 ??" width="3000" height="3000" thickness="18" />
+<material id="2" type="band" article="17062" name="??????????? ? ????? ????? 20??" height="20" thickness="0.3" />
+<material id="3" type="band" article="26658" name="Kromag ??? 501.03 SM ????? ??????? 22?2??" height="23" thickness="2" />
+</materials>
+<details>
+<detail id="1" material="1" barcode="" amount="1" width="276.0" height="728.0" multiplicity="1" grain="1" description="1.TL_Drawer front panel" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="2" material="1" barcode="" amount="2" width="638.4" height="198.4" multiplicity="1" grain="1" description="2.TL_Drawer back panel" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="3" material="1" barcode="" amount="1" width="735.4" height="552.7" multiplicity="1" grain="1" description="3.TL_bottom" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="4" material="1" barcode="" amount="1" width="671.4" height="699.4" multiplicity="1" grain="1" description="4.TL_back" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="5" material="1" barcode="" amount="1" width="674.4" height="531.4" multiplicity="1" grain="1" description="5.TL_Drawer bottom" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="6" material="1" barcode="" amount="2" width="531.4" height="198.4" multiplicity="1" grain="1" description="6.TL_Left drawer side" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="7" material="1" barcode="" amount="4" width="638.4" height="95.4" multiplicity="1" grain="1" description="7.TL_Drawer back panel" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="8" material="1" barcode="" amount="4" width="531.4" height="95.4" multiplicity="1" grain="1" description="8.TL_Left drawer side" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="9" material="1" barcode="" amount="2" width="144.0" height="728.0" multiplicity="1" grain="1" description="9.TL_Drawer front panel" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="10" material="1" barcode="" amount="8" width="549.4" height="93.4" multiplicity="1" grain="1" description="10.KSH_Left drawer side" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="11" material="1" barcode="" amount="4" width="143.0" height="389.0" multiplicity="1" grain="1" description="11.KSH_Drawer front panel" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="12" material="1" barcode="" amount="8" width="335.4" height="93.4" multiplicity="1" grain="1" description="12.KSH_Drawer false front" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="13" material="1" barcode="" amount="1" width="2559.4" height="652.7" multiplicity="1" grain="1" description="13.KSH_side_right" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="1" x="2500.0" y="605.0" xo="2500.0" yo="605.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="2" type="drilling" side="1" x="2500.0" y="50.0" xo="2500.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="3" type="drilling" side="1" x="1986.0" y="125.0" xo="1986.0" yo="125.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="4" type="drilling" side="1" x="1986.0" y="605.0" xo="1986.0" yo="605.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="5" type="drilling" side="1" x="568.0" y="125.0" xo="568.0" yo="125.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="6" type="drilling" side="1" x="568.0" y="605.0" xo="568.0" yo="605.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="7" type="drilling" side="1" x="10.0" y="125.0" xo="10.0" yo="125.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="8" type="drilling" side="1" x="10.0" y="605.0" xo="10.0" yo="605.0" xl="0" yl="0" d="7" depth="23.0" />
+</operations>
+</detail>
+<detail id="14" material="1" barcode="" amount="1" width="2559.4" height="652.7" multiplicity="1" grain="1" description="14.KSH_side_left" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="1" x="61.0" y="605.0" xo="61.0" yo="605.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="2" type="drilling" side="1" x="61.0" y="50.0" xo="61.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="3" type="drilling" side="1" x="807.0" y="125.0" xo="807.0" yo="125.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="4" type="drilling" side="1" x="807.0" y="605.0" xo="807.0" yo="605.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="5" type="drilling" side="1" x="489.0" y="125.0" xo="489.0" yo="125.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="6" type="drilling" side="1" x="489.0" y="605.0" xo="489.0" yo="605.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="7" type="drilling" side="1" x="1875.0" y="605.0" xo="1875.0" yo="605.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="8" type="drilling" side="1" x="1875.0" y="125.0" xo="1875.0" yo="125.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="9" type="drilling" side="1" x="2551.0" y="125.0" xo="2551.0" yo="125.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="10" type="drilling" side="1" x="2551.0" y="605.0" xo="2551.0" yo="605.0" xl="0" yl="0" d="7" depth="23.0" />
+</operations>
+</detail>
+<detail id="15" material="1" barcode="" amount="1" width="699.4" height="63.7" multiplicity="1" grain="1" description="15.TL_top" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="16" material="1" barcode="" amount="2" width="95.4" height="495.4" multiplicity="1" grain="1" description="16.TL_Drawer inside" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="17" material="1" barcode="" amount="1" width="671.4" height="554.4" multiplicity="1" grain="1" description="17.M_side_right" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="18" material="1" barcode="" amount="3" width="671.4" height="552.7" multiplicity="1" grain="1" description="18.M_side_left" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="19" material="1" barcode="" amount="1" width="671.4" height="1093.4" multiplicity="1" grain="1" description="19.M_back" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="20" material="1" barcode="" amount="1" width="102.4" height="1201.4" multiplicity="1" grain="1" description="20.TL_base_front" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="21" material="1" barcode="" amount="1" width="102.4" height="516.4" multiplicity="1" grain="1" description="21.TL_base_left" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="22" material="1" barcode="" amount="1" width="1129.4" height="552.7" multiplicity="1" grain="1" description="22.M_bottom" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="23" material="1" barcode="" amount="1" width="109.4" height="518.4" multiplicity="1" grain="1" description="23.M_inner_top" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="24" material="1" barcode="" amount="1" width="781.4" height="677.7" multiplicity="1" grain="1" description="24.TP_bottom" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="25" material="1" barcode="" amount="1" width="671.4" height="677.7" multiplicity="1" grain="1" description="25.TP_side" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="26" material="1" barcode="" amount="1" width="653.4" height="677.7" multiplicity="1" grain="1" description="26.TP_side" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="27" material="1" barcode="" amount="1" width="679.0" height="422.0" multiplicity="1" grain="1" description="27.M_facade" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="28" material="1" barcode="" amount="1" width="109.4" height="1093.4" multiplicity="1" grain="1" description="28.M_front_top" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="29" material="1" barcode="" amount="1" width="689.4" height="699.4" multiplicity="1" grain="1" description="29.M_front_right" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="30" material="1" barcode="" amount="1" width="96.0" height="728.0" multiplicity="1" grain="1" description="30.TL_Drawer front panel" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="31" material="1" barcode="" amount="2" width="531.4" height="50.4" multiplicity="1" grain="1" description="31.TL_Left drawer side" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="32" material="1" barcode="" amount="2" width="638.4" height="50.4" multiplicity="1" grain="1" description="32.TL_Drawer back panel" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="33" material="1" barcode="" amount="1" width="599.4" height="397.7" multiplicity="1" grain="1" description="33.KS_side_left" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="34" material="1" barcode="" amount="1" width="599.4" height="397.7" multiplicity="1" grain="1" description="34.KS_side_right" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="shapeByPattern" patternId="rectangular" ext="1" shiftX="40.0" shiftY="180.0" sizeH="390.0" sizeV="100.0" radius="0" joint="0" edgeMaterial="" />
+</operations>
+</detail>
+<detail id="35" material="1" barcode="" amount="2" width="553.4" height="397.7" multiplicity="1" grain="1" description="35.KS_top_bottom" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="36" material="1" barcode="" amount="2" width="534.4" height="96.4" multiplicity="1" grain="1" description="36.KT_Left drawer side" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="37" material="1" barcode="" amount="1" width="673.0" height="269.0" multiplicity="1" grain="1" description="37.KT_facade_right" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="38" material="1" barcode="" amount="1" width="519.0" height="269.0" multiplicity="1" grain="1" description="38.KT_facade_left" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="39" material="1" barcode="" amount="2" width="592.0" height="287.0" multiplicity="1" grain="1" description="39.KS_facade" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="40" material="1" barcode="" amount="1" width="50.4" height="1569.4" multiplicity="1" grain="1" description="40.KSH_base_front" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="41" material="1" barcode="" amount="1" width="1569.4" height="652.7" multiplicity="1" grain="1" description="41.KSH_bottom" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="2" x="9.0" y="605.0" xo="9.0" yo="605.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="2" type="drilling" side="2" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="3" type="drilling" side="1" x="749.0" y="125.0" xo="749.0" yo="125.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="4" type="drilling" side="1" x="749.0" y="605.0" xo="749.0" yo="605.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="5" type="drilling" side="4" x="9.0" y="605.0" xo="9.0" yo="605.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="6" type="drilling" side="4" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+</operations>
+</detail>
+<detail id="42" material="1" barcode="" amount="1" width="563.4" height="397.7" multiplicity="1" grain="1" description="42.KS_inner_wall" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="43" material="1" barcode="" amount="1" width="235.4" height="397.7" multiplicity="1" grain="1" description="43.KS_shelf" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="44" material="1" barcode="" amount="3" width="553.4" height="537.7" multiplicity="1" grain="1" description="44.KT_bottom_shelf" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="45" material="1" barcode="" amount="1" width="589.4" height="557.7" multiplicity="1" grain="1" description="45.KT_top" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="46" material="1" barcode="" amount="2" width="731.4" height="557.7" multiplicity="1" grain="1" description="46.KT_side" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="47" material="1" barcode="" amount="1" width="153.4" height="537.7" multiplicity="1" grain="1" description="47.KT_inner_wall" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="48" material="1" barcode="" amount="2" width="215.4" height="96.4" multiplicity="1" grain="1" description="48.KT_Drawer back panel" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="49" material="1" barcode="" amount="2" width="50.4" height="553.4" multiplicity="1" grain="1" description="49.KT_base" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="50" material="1" barcode="" amount="1" width="146.0" height="269.0" multiplicity="1" grain="1" description="50.KT_Drawer front panel" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="51" material="1" barcode="" amount="3" width="51.4" height="616.4" multiplicity="1" grain="1" description="51.KSH_base_inner" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="52" material="1" barcode="" amount="3" width="396.4" height="577.7" multiplicity="1" grain="1" description="52.KSH_left_shelf" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="53" material="1" barcode="" amount="1" width="1367.4" height="577.7" multiplicity="1" grain="1" description="53.KSH_left_inner_wall" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="1" x="1059.0" y="50.0" xo="1059.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="2" type="drilling" side="1" x="1059.0" y="530.0" xo="1059.0" yo="530.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="3" type="drilling" side="4" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="4" type="drilling" side="4" x="9.0" y="530.0" xo="9.0" yo="530.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="5" type="drilling" side="2" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="6" type="drilling" side="2" x="9.0" y="530.0" xo="9.0" yo="530.0" xl="0" yl="0" d="4.5" depth="34.0" />
+</operations>
+</detail>
+<detail id="54" material="1" barcode="" amount="1" width="2471.4" height="577.7" multiplicity="1" grain="1" description="54.KSH_inner_wall" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="1" x="2053.0" y="50.0" xo="2053.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="2" type="drilling" side="1" x="2053.0" y="530.0" xo="2053.0" yo="530.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="3" type="drilling" side="4" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="4" type="drilling" side="4" x="9.0" y="530.0" xo="9.0" yo="530.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="5" type="drilling" side="1" x="1967.0" y="530.0" xo="1967.0" yo="530.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="6" type="drilling" side="1" x="1967.0" y="50.0" xo="1967.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="7" type="drilling" side="1" x="1735.0" y="530.0" xo="1735.0" yo="530.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="8" type="drilling" side="1" x="1735.0" y="50.0" xo="1735.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="9" type="drilling" side="1" x="667.0" y="50.0" xo="667.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="10" type="drilling" side="1" x="667.0" y="530.0" xo="667.0" yo="530.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="11" type="drilling" side="1" x="549.0" y="50.0" xo="549.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="12" type="drilling" side="1" x="549.0" y="530.0" xo="549.0" yo="530.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="13" type="drilling" side="2" x="9.0" y="125.0" xo="9.0" yo="125.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="14" type="drilling" side="2" x="9.0" y="530.0" xo="9.0" yo="530.0" xl="0" yl="0" d="4.5" depth="34.0" />
+</operations>
+</detail>
+<detail id="55" material="1" barcode="" amount="1" width="739.4" height="572.7" multiplicity="1" grain="1" description="55.KSH_right_drawer" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="56" material="1" barcode="" amount="2" width="739.4" height="572.7" multiplicity="1" grain="1" description="56.KSH_right_drawer_hard" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="4" x="9.0" y="45.0" xo="9.0" yo="45.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="2" type="drilling" side="4" x="9.0" y="525.0" xo="9.0" yo="525.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="3" type="drilling" side="2" x="9.0" y="45.0" xo="9.0" yo="45.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="4" type="drilling" side="2" x="9.0" y="525.0" xo="9.0" yo="525.0" xl="0" yl="0" d="4.5" depth="34.0" />
+</operations>
+</detail>
+<detail id="57" material="1" barcode="" amount="1" width="1569.4" height="577.7" multiplicity="1" grain="1" description="57.KSH_top" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="4" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="2" type="drilling" side="4" x="9.0" y="530.0" xo="9.0" yo="530.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="3" type="drilling" side="1" x="821.0" y="125.0" xo="821.0" yo="125.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="4" type="drilling" side="1" x="821.0" y="530.0" xo="821.0" yo="530.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="5" type="drilling" side="2" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="6" type="drilling" side="2" x="9.0" y="530.0" xo="9.0" yo="530.0" xl="0" yl="0" d="4.5" depth="34.0" />
+</operations>
+</detail>
+<detail id="58" material="1" barcode="" amount="1" width="396.4" height="577.7" multiplicity="1" grain="1" description="58.KSH_drawer_top_left" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="4" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="2" type="drilling" side="4" x="9.0" y="530.0" xo="9.0" yo="530.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="3" type="drilling" side="2" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="4" type="drilling" side="2" x="9.0" y="530.0" xo="9.0" yo="530.0" xl="0" yl="0" d="4.5" depth="34.0" />
+</operations>
+</detail>
+<detail id="59" material="1" barcode="" amount="1" width="396.4" height="577.7" multiplicity="1" grain="1" description="59.KSH_drawer_top_right" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="4" x="9.0" y="530.0" xo="9.0" yo="530.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="2" type="drilling" side="4" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+</operations>
+</detail>
+<detail id="60" material="1" barcode="" amount="2" width="811.4" height="577.7" multiplicity="1" grain="1" description="60.KSH_left_drawer_wide_hard" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="4" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="2" type="drilling" side="4" x="9.0" y="530.0" xo="9.0" yo="530.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="3" type="drilling" side="1" x="406.0" y="50.0" xo="406.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="4" type="drilling" side="1" x="406.0" y="530.0" xo="406.0" yo="530.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="5" type="drilling" side="2" x="9.0" y="530.0" xo="9.0" yo="530.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="6" type="drilling" side="2" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+</operations>
+</detail>
+<detail id="61" material="1" barcode="" amount="1" width="811.4" height="577.7" multiplicity="1" grain="1" description="61.KSH_left_drawer_wide" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="62" material="1" barcode="" amount="2" width="745.4" height="677.7" multiplicity="1" grain="1" description="62.TP_shelf_top" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="63" material="1" barcode="" amount="2" width="713.0" height="298.0" multiplicity="1" grain="1" description="63.V_facade" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="64" material="1" barcode="" amount="2" width="201.5" height="298.0" multiplicity="1" grain="1" description="64.V_Drawer front panel" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="65" material="1" barcode="" amount="4" width="244.4" height="151.4" multiplicity="1" grain="1" description="65.V_Drawer back panel" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="66" material="1" barcode="" amount="3" width="305.4" height="379.7" multiplicity="1" grain="1" description="66.V_shelf" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="67" material="1" barcode="" amount="2" width="720.4" height="399.7" multiplicity="1" grain="1" description="67.V_inner_wall" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="68" material="1" barcode="" amount="1" width="720.4" height="953.4" multiplicity="1" grain="1" description="68.V_back" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="" param="0" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="69" material="1" barcode="" amount="4" width="374.4" height="151.4" multiplicity="1" grain="1" description="69.V_Left drawer side" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="70" material="1" barcode="" amount="4" width="244.4" height="96.4" multiplicity="1" grain="1" description="70.V_Drawer back panel" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="71" material="1" barcode="" amount="2" width="146.0" height="298.0" multiplicity="1" grain="1" description="71.V_Drawer front panel" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="72" material="1" barcode="" amount="4" width="374.4" height="96.4" multiplicity="1" grain="1" description="72.V_Left drawer side" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="73" material="1" barcode="" amount="1" width="720.4" height="417.7" multiplicity="1" grain="1" description="73.V_side_wall_right" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="74" material="1" barcode="" amount="1" width="99.4" height="513.4" multiplicity="1" grain="1" description="74.L_front_top" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="1" x="91.0" y="171.0" xo="91.0" yo="171.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="2" type="drilling" side="1" x="91.0" y="171.0" xo="91.0" yo="171.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="3" type="drilling" side="1" x="91.0" y="343.0" xo="91.0" yo="343.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="4" type="drilling" side="5" x="30.0" y="9.0" xo="30.0" yo="9.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="5" type="drilling" side="5" x="70.0" y="9.0" xo="70.0" yo="9.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="6" type="drilling" side="3" x="30.0" y="9.0" xo="30.0" yo="9.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="7" type="drilling" side="3" x="70.0" y="9.0" xo="70.0" yo="9.0" xl="0" yl="0" d="4.5" depth="34.0" />
+</operations>
+</detail>
+<detail id="75" material="1" barcode="" amount="1" width="2648.4" height="97.7" multiplicity="1" grain="1" description="75.L_left_front" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="1" x="40.0" y="29.0" xo="40.0" yo="29.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="2" type="drilling" side="1" x="80.0" y="29.0" xo="80.0" yo="29.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="3" type="drilling" side="1" x="129.0" y="30.0" xo="129.0" yo="30.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="4" type="drilling" side="1" x="129.0" y="70.0" xo="129.0" yo="70.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="5" type="drilling" side="1" x="1625.0" y="30.0" xo="1625.0" yo="30.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="6" type="drilling" side="1" x="1625.0" y="70.0" xo="1625.0" yo="70.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="7" type="drilling" side="1" x="2258.0" y="30.0" xo="2258.0" yo="30.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="8" type="drilling" side="1" x="2258.0" y="70.0" xo="2258.0" yo="70.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="9" type="drilling" side="1" x="2579.0" y="9.0" xo="2579.0" yo="9.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="10" type="drilling" side="1" x="2619.0" y="9.0" xo="2619.0" yo="9.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="11" type="drilling" side="1" x="2640.0" y="70.0" xo="2640.0" yo="70.0" xl="0" yl="0" d="7" depth="23.0" />
+</operations>
+</detail>
+<detail id="76" material="1" barcode="" amount="1" width="1634.4" height="554.4" multiplicity="1" grain="1" description="76.L_left_bottom" marker="0">
+<edges>
+<left type="" param="0" drop="0" />
+<top type="" param="0" drop="0" />
+<right type="" param="0" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="1" x="1505.0" y="505.0" xo="1505.0" yo="505.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="2" type="drilling" side="1" x="1505.0" y="65.0" xo="1505.0" yo="65.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="3" type="drilling" side="1" x="9.0" y="465.0" xo="9.0" yo="465.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="4" type="drilling" side="1" x="9.0" y="65.0" xo="9.0" yo="65.0" xl="0" yl="0" d="7" depth="23.0" />
+</operations>
+</detail>
+<detail id="77" material="1" barcode="" amount="1" width="513.4" height="717.7" multiplicity="1" grain="1" description="77.L_shelf_cut_hard" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="" param="0" drop="0" />
+<right type="" param="0" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="2" x="9.0" y="670.0" xo="9.0" yo="670.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="2" type="drilling" side="2" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="3" type="drilling" side="1" x="50.0" y="711.0" xo="50.0" yo="711.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="4" type="drilling" side="1" x="382.0" y="711.0" xo="382.0" yo="711.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="5" type="drilling" side="4" x="9.0" y="30.0" xo="9.0" yo="30.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="6" type="drilling" side="4" x="9.0" y="70.0" xo="9.0" yo="70.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="7" type="drilling" side="4" x="9.0" y="190.0" xo="9.0" yo="190.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="8" type="drilling" side="4" x="9.0" y="590.0" xo="9.0" yo="590.0" xl="0" yl="0" d="4.5" depth="34.0" />
+</operations>
+</detail>
+<detail id="78" material="1" barcode="" amount="1" width="513.4" height="621.4" multiplicity="1" grain="1" description="78.L_top" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="5" x="343.0" y="9.0" xo="343.0" yo="9.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="2" type="drilling" side="5" x="343.0" y="9.0" xo="343.0" yo="9.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="3" type="drilling" side="5" x="171.0" y="9.0" xo="171.0" yo="9.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="4" type="drilling" side="4" x="9.0" y="572.0" xo="9.0" yo="572.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="5" type="drilling" side="4" x="9.0" y="32.0" xo="9.0" yo="32.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="6" type="drilling" side="2" x="9.0" y="52.0" xo="9.0" yo="52.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="7" type="drilling" side="2" x="9.0" y="132.0" xo="9.0" yo="132.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="8" type="drilling" side="2" x="9.0" y="572.0" xo="9.0" yo="572.0" xl="0" yl="0" d="4.5" depth="34.0" />
+</operations>
+</detail>
+<detail id="79" material="1" barcode="" amount="1" width="119.4" height="513.4" multiplicity="1" grain="1" description="79.L_front_bottom" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="3" x="40.0" y="9.0" xo="40.0" yo="9.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="2" type="drilling" side="3" x="80.0" y="9.0" xo="80.0" yo="9.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="3" type="drilling" side="5" x="80.0" y="9.0" xo="80.0" yo="9.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="4" type="drilling" side="5" x="40.0" y="9.0" xo="40.0" yo="9.0" xl="0" yl="0" d="4.5" depth="34.0" />
+</operations>
+</detail>
+<detail id="80" material="1" barcode="" amount="2" width="1255.0" height="577.0" multiplicity="1" grain="1" description="80.SP_facade_top" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="81" material="1" barcode="" amount="2" width="1180.0" height="577.0" multiplicity="1" grain="1" description="81.SP_facade_bottom" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="82" material="1" barcode="" amount="1" width="2648.4" height="717.7" multiplicity="1" grain="1" description="82.L_right" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="1" x="2569.0" y="29.0" xo="2569.0" yo="29.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="2" type="drilling" side="1" x="2609.0" y="29.0" xo="2609.0" yo="29.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="3" type="drilling" side="1" x="2520.0" y="670.0" xo="2520.0" yo="670.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="4" type="drilling" side="1" x="2520.0" y="50.0" xo="2520.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="5" type="drilling" side="1" x="707.0" y="711.0" xo="707.0" yo="711.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="6" type="drilling" side="1" x="1024.0" y="670.0" xo="1024.0" yo="670.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="7" type="drilling" side="1" x="1024.0" y="50.0" xo="1024.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="8" type="drilling" side="1" x="391.0" y="670.0" xo="391.0" yo="670.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="9" type="drilling" side="1" x="391.0" y="50.0" xo="391.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="10" type="drilling" side="1" x="70.0" y="9.0" xo="70.0" yo="9.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="11" type="drilling" side="1" x="30.0" y="9.0" xo="30.0" yo="9.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="12" type="drilling" side="1" x="9.0" y="590.0" xo="9.0" yo="590.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="13" type="drilling" side="1" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+</operations>
+</detail>
+<detail id="83" material="1" barcode="" amount="2" width="513.4" height="717.7" multiplicity="1" grain="1" description="83.L_shelf_cut" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="" param="0" drop="0" />
+<right type="" param="0" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="84" material="1" barcode="" amount="1" width="614.4" height="431.4" multiplicity="1" grain="1" description="84.L_back_dsp" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="5" x="308.0" y="9.0" xo="308.0" yo="9.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="2" type="drilling" side="2" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="3" type="drilling" side="2" x="9.0" y="382.0" xo="9.0" yo="382.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="4" type="drilling" side="4" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="5" type="drilling" side="4" x="9.0" y="382.0" xo="9.0" yo="382.0" xl="0" yl="0" d="4.5" depth="34.0" />
+</operations>
+</detail>
+<detail id="85" material="1" barcode="" amount="1" width="399.4" height="539.4" multiplicity="1" grain="1" description="85.L_left_top" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="1" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="2" type="drilling" side="1" x="9.0" y="490.0" xo="9.0" yo="490.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="3" type="drilling" side="1" x="391.0" y="50.0" xo="391.0" yo="50.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="4" type="drilling" side="1" x="391.0" y="490.0" xo="391.0" yo="490.0" xl="0" yl="0" d="7" depth="23.0" />
+</operations>
+</detail>
+<detail id="86" material="1" barcode="" amount="2" width="989.4" height="417.7" multiplicity="1" grain="1" description="86.V_top_bottom" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="87" material="1" barcode="" amount="1" width="720.4" height="417.7" multiplicity="1" grain="1" description="87.V_side_wall_left" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="shapeByPattern" direction="0" patternId="uShaped" ext="1" edgeId="3" shift="447.0" sizeH="134.0" sizeV="100.0" radius="0" edgeMaterial="" />
+</operations>
+</detail>
+<detail id="88" material="1" barcode="" amount="1" width="1499.0" height="542.0" multiplicity="1" grain="1" description="88.L_facade_bottom" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="89" material="1" barcode="" amount="1" width="513.4" height="717.7" multiplicity="1" grain="1" description="89.L_shelf_full" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="2" x="9.0" y="670.0" xo="9.0" yo="670.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="2" type="drilling" side="2" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="3" type="drilling" side="1" x="50.0" y="711.0" xo="50.0" yo="711.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="4" type="drilling" side="1" x="382.0" y="711.0" xo="382.0" yo="711.0" xl="0" yl="0" d="7" depth="23.0" />
+<operation id="5" type="drilling" side="4" x="9.0" y="30.0" xo="9.0" yo="30.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="6" type="drilling" side="4" x="9.0" y="70.0" xo="9.0" yo="70.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="7" type="drilling" side="4" x="9.0" y="150.0" xo="9.0" yo="150.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="8" type="drilling" side="4" x="9.0" y="590.0" xo="9.0" yo="590.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="9" type="cornerOperation" corner="3" subtype="3" x="82.0" y="65.0" r="25.0" ext="0" edgeMaterial="" edgeCovering="0" />
+</operations>
+</detail>
+<detail id="90" material="1" barcode="" amount="1" width="513.4" height="717.7" multiplicity="1" grain="1" description="90.L_shelf_full" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="cornerOperation" corner="3" subtype="3" x="82.0" y="65.0" r="25.0" ext="0" edgeMaterial="" edgeCovering="0" />
+</operations>
+</detail>
+<detail id="91" material="1" barcode="" amount="1" width="929.0" height="542.0" multiplicity="1" grain="1" description="91.L_facade_top" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="92" material="1" barcode="" amount="1" width="513.4" height="717.7" multiplicity="1" grain="1" description="92.L_shelf_full" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+<operations>
+<operation id="1" type="drilling" side="2" x="9.0" y="670.0" xo="9.0" yo="670.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="2" type="drilling" side="2" x="9.0" y="50.0" xo="9.0" yo="50.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="3" type="drilling" side="4" x="9.0" y="30.0" xo="9.0" yo="30.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="4" type="drilling" side="4" x="9.0" y="70.0" xo="9.0" yo="70.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="5" type="drilling" side="4" x="9.0" y="150.0" xo="9.0" yo="150.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="6" type="drilling" side="4" x="9.0" y="590.0" xo="9.0" yo="590.0" xl="0" yl="0" d="4.5" depth="34.0" />
+<operation id="7" type="cornerOperation" corner="3" subtype="3" x="82.0" y="65.0" r="25.0" ext="0" edgeMaterial="" edgeCovering="0" />
+</operations>
+</detail>
+<detail id="93" material="1" barcode="" amount="4" width="563.4" height="562.7" multiplicity="1" grain="1" description="93.D_shelf" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="94" material="1" barcode="" amount="1" width="169.0" height="592.0" multiplicity="1" grain="1" description="94.D_Drawer front panel" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="95" material="1" barcode="" amount="2" width="559.4" height="100.4" multiplicity="1" grain="1" description="95.D_Left drawer side" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="96" material="1" barcode="" amount="1" width="1255.0" height="592.0" multiplicity="1" grain="1" description="96.D_facade" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="97" material="1" barcode="" amount="2" width="502.4" height="100.4" multiplicity="1" grain="1" description="97.D_Drawer back panel" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="98" material="1" barcode="" amount="2" width="679.0" height="382.0" multiplicity="1" grain="1" description="98.TP_facade" marker="0">
+<edges>
+<left type="kromka" param="3" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="3" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="99" material="1" barcode="" amount="1" width="102.4" height="837.4" multiplicity="1" grain="1" description="99.TP_base" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="100" material="1" barcode="" amount="1" width="763.4" height="677.7" multiplicity="1" grain="1" description="100.TP_shelf_top" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="3" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="101" material="1" barcode="" amount="2" width="2430.4" height="697.7" multiplicity="1" grain="1" description="101.D_side" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="102" material="1" barcode="" amount="1" width="563.4" height="697.7" multiplicity="1" grain="1" description="102.D_top" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="103" material="1" barcode="" amount="1" width="1212.4" height="589.4" multiplicity="1" grain="1" description="103.Corridor_back" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="104" material="1" barcode="" amount="1" width="599.4" height="562.7" multiplicity="1" grain="1" description="104.D_bottom" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="105" material="1" barcode="" amount="10" width="557.4" height="183.7" multiplicity="1" grain="1" description="105.SP_shelf" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="106" material="1" barcode="" amount="1" width="103.0" height="51.0" multiplicity="1" grain="1" description="106.SP_base_left" marker="0">
+<edges>
+<left type="" param="0" drop="0" />
+<top type="" param="0" drop="0" />
+<right type="" param="0" drop="0" />
+<bottom type="" param="0" drop="0" />
+</edges>
+</detail>
+<detail id="107" material="1" barcode="" amount="1" width="102.4" height="1750.4" multiplicity="1" grain="1" description="107.SP_base_front" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="2" drop="0" />
+</edges>
+</detail>
+<detail id="108" material="1" barcode="" amount="2" width="2430.4" height="183.7" multiplicity="1" grain="1" description="108.SP_side_wall" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="109" material="1" barcode="" amount="1" width="1169.4" height="183.7" multiplicity="1" grain="1" description="109.SP_bottom" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="110" material="1" barcode="" amount="1" width="2412.4" height="183.7" multiplicity="1" grain="1" description="110.SP_inner_wall" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+<detail id="111" material="1" barcode="" amount="1" width="1133.4" height="183.7" multiplicity="1" grain="1" description="111.SP_top" marker="0">
+<edges>
+<left type="kromka" param="2" drop="0" />
+<top type="kromka" param="2" drop="0" />
+<right type="kromka" param="2" drop="0" />
+<bottom type="kromka" param="3" drop="0" />
+</edges>
+</detail>
+</details>
+<products>
+<product id="1" article="60837" name="????????? 6,4?50??, ????????????" amount="77" />
+</products>
+</viyar>
+</project>
